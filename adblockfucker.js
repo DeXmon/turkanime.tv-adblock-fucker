@@ -1,3 +1,11 @@
+/*
+Download Tampermonkey (Chrome) or Greasemonkey (Firefox)
+Click on right top icon (Tampermonkey icon) on the page and click "Add a new script..." 
+Copy all lines above and paste
+Save changes
+*/
+
+
 // ==UserScript==
 // @name         New Userscript
 // @namespace    http://tampermonkey.net/
