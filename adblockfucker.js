@@ -1,9 +1,9 @@
 // ==UserScript==
-// @name         New Userscript
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  try to take over the world!
-// @author       You
+// @name         Anti-Adblock fucker
+// @namespace    AE
+// @version      1.0
+// @description  Anti-Adblock fucker
+// @author       AE
 // @match        http://www.turkanime.tv/*
 // @grant        none
 // ==/UserScript==
